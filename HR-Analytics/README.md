@@ -35,7 +35,7 @@ Provides an overview of employee demographics, department structure, and perform
 - Department, Division, Job Title, and PayZone Breakdown
 - Performance Score Overview
 
-![Summary Dashboard](./images/summary_dashboard.png)
+![Summary Dashboard](./overview/Summary.png)
 
 ---
 
@@ -48,7 +48,7 @@ Visualizes the recruitment funnel and candidate demographics.
 - Education Level Distribution
 - Applicant Detail Table (with filters for salary, experience, etc.)
 
-![Recruitment Dashboard](./images/recruitment_dashboard.png)
+![Recruitment Dashboard](./overview/Recruitment.png)
 
 ---
 
@@ -61,7 +61,7 @@ Analyzes employee engagement, satisfaction, and training success metrics.
 - Training Completion Rate and Program Distribution
 - Training Cost vs Duration Scatter Plot
 
-![Performance & Training Dashboard](./images/performance_training_dashboard.png)
+![Performance & Training Dashboard](./overview/Performance&Training.png)
 
 ---
 
@@ -74,7 +74,7 @@ Tracks turnover trends and identifies high-risk segments within the workforce.
 - Turnover by Department and Year
 - Exit Detail Table
 
-![Turnover Dashboard](./images/turnover_dashboard.png)
+![Turnover Dashboard](./overview/Turnover.png)
 
 ---
 
@@ -92,6 +92,9 @@ Tracks turnover trends and identifies high-risk segments within the workforce.
 ## Data Source
 
 All datasets used in this project are anonymized and synthetically generated for educational and demonstration purposes.
+
+> **Source**: Public sample dataset hosted on GitHub  
+> [View Dataset on GitHub](https://github.com/denindrap23/Power-BI/blob/main/HR-Analytics/dataset)
 
 ---
 
