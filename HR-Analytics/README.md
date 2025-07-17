@@ -23,6 +23,17 @@ All datasets used in this project are anonymized and synthetically generated for
 
 ---
 
+## Dataset Overview
+
+| Dataset | Description |
+|--------|-------------|
+| `employee_data` | Core employee information including job title, department, pay zone, gender, status, and performance. |
+| `employee_engagement_survey_data` | Annual engagement survey data with scores for satisfaction, engagement, and work-life balance. |
+| `recruitment_data` | Applicant details including demographics, education level, experience, desired salary, and application status. |
+| `training_and_development_data` | Training records including training program name, type, outcome, cost, duration, and trainer info. |
+
+---
+
 ## Objective
 
 The primary objectives of this project are to:
@@ -109,13 +120,3 @@ Tracks turnover trends and identifies high-risk segments within the workforce.
 
 ---
 
-## Dataset Overview
-
-| Dataset | Description |
-|--------|-------------|
-| `employee_data` | Core employee information including job title, department, pay zone, gender, status, and performance. |
-| `employee_engagement_survey_data` | Annual engagement survey data with scores for satisfaction, engagement, and work-life balance. |
-| `recruitment_data` | Applicant details including demographics, education level, experience, desired salary, and application status. |
-| `training_and_development_data` | Training records including training program name, type, outcome, cost, duration, and trainer info. |
-
----
